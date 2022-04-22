@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS 요소 선택자</title>
+    <!-- <link rel="stylesheet" href="./css/index.css"> -->
+</head>
+
+<!-- 
+    
+- HTML 요소 선택자
+
+- 아이디(id) 선택자
+
+- 클래스(class) 선택자
+
+- 그룹(group) 선택자
+
+ -->
+<body>
+    <h2 class="headings">이 부분에 스타일을 적용합니다.</h2>
+    
+    <p>class 선택자를 이용하여 스타일을 적용할 HTML 요소들을 한 번에 선택할 수 있습니다.</p>
+
+    <h3 class="headings">이 부분에도 같은 스타일을 적용합니다.</h3>
+    
+    <h2 id="headings">이 부분에도 같은 스타일을 적용합니다.</h2>
+
+    &nbsp;
+    &nbsp;
+    &nbsp;
+
+    <div>div 태그</div>
+    <a>a 태그</a>
+
+</body>
+
+<style>
+    .headings { 
+        color: lime; 
+        text-decoration: overline; 
+    }
+
+    p {
+        color: teal; 
+        text-decoration: overline; 
+    }
+    
+    #headings { 
+        color: teal; 
+        text-decoration: line-through; 
+    }
+
+    div, a {
+        color: skyblue; 
+        text-decoration: none;
+        font-size: 30px; 
+    }   
+</style>
+
+</html>
