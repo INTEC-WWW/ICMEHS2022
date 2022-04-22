@@ -5,8 +5,6 @@
 
 <!-- | **Type** | **Date** | **Contents** | **Org.** | -->
 
-|--------:|--------:|--------:|--------:|--------|
-
 | **:mortar_board: 자율전공동아리** | 2021. 5 ~ 2022 | 웹개발 자율전공 동아리  | **인천전자마이스터고등학교** |
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)    
