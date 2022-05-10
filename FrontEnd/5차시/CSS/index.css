@@ -36,12 +36,12 @@ article {
 }
 
 aside {
-float:left; 
-width:104px; 
-height:200px; 
-line-height: 200px;
+    float:left; 
+    width:104px; 
+    height:200px; 
+    line-height: 200px;
 }
 
 footer {
-overflow:hidden;
+    overflow: hidden;
 }
